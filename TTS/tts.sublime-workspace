@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"response",
+				"response"
+			],
+			[
+				"Te",
+				"TextSpeechForm"
+			],
+			[
+				"Tex",
+				"TextSpeech"
+			],
+			[
+				"Text",
+				"TextSpeechAdmin"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"set",
+				"set_column"
+			],
+			[
+				"v",
+				"vulnerability"
+			],
+			[
+				"cert",
+				"cert_dic"
+			],
+			[
+				"wo",
+				"worksheet"
+			],
+			[
+				"S",
+				"STATUS"
+			],
+			[
+				"m",
+				"medium"
+			],
+			[
+				"wor",
+				"workbook"
+			],
+			[
+				"head",
+				"header1"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"ios",
+				"iosDB"
+			],
+			[
+				"C",
+				"Compliance"
+			],
+			[
+				"wr",
+				"write_string"
+			],
+			[
+				"MA_",
+				"MA_DB"
+			],
+			[
+				"write",
+				"write_string"
+			],
+			[
+				"Per",
+				"Perm_DB"
+			],
+			[
+				"app",
+				"appinfo"
+			],
+			[
+				"Stat",
+				"StaticAnalyzer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 778,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/models.py",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/views.py",
+			"settings":
+			{
+				"buffer_size": 541,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/templates",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/TTS"
+	],
+	"file_history":
+	[
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/good.mp3",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/models.py",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/admin.py",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/forms.py",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/templates/home.html",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/views.py",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/TTS/urls.py",
+		"/Users/avinash.af.kumar/Desktop/TTS-Django/src/TTS/settings.py",
+		"/Users/avinash.af.kumar/Desktop/SimpleTextToSpeech.java",
+		"/Users/avinash.af.kumar/Desktop/SimpleTextToSpeech.class",
+		"/Users/avinash.af.kumar/Desktop/tts.java",
+		"/Users/avinash.af.kumar/Desktop/audio.vbs",
+		"/Users/avinash.af.kumar/Desktop/talk.bat",
+		"/Users/avinash.af.kumar/Desktop/Talk_.vbs",
+		"/Users/avinash.af.kumar/Desktop/TTS/freetts-1.2/javadoc/index.html",
+		"/Users/avinash.af.kumar/Desktop/TTS/freetts-1.2/index.html",
+		"/Users/avinash.af.kumar/Desktop/TTS/TTSfunct.java",
+		"/Users/avinash.af.kumar/Desktop/TTS/TTS.java",
+		"/Users/avinash.af.kumar/Downloads/DigitalSecurityFramework/templates/ios_binary_analysis.html",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/StaticAnalyzer/excel_util_dev.py",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/templates/ios_binary_analysis_pdf_exe.html",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/templates/ios_binary_analysis_pdf.html",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/templates/ios_source_analysis_pdf.html",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/templates/static_analysis_pdf_exe.html",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/templates/EditIssue.html",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/templates/static_analysis.html",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/templates/static_analysis_pdf.html",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/StaticAnalyzer/contextUtils.py",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/StaticAnalyzer/excel_util_ios.py",
+		"/Users/avinash.af.kumar/Desktop/DST/DigitalSecurityFramework/StaticAnalyzer/models.py",
+		"/Users/avinash.af.kumar/.gitconfig",
+		"/Users/avinash.af.kumar/Desktop/app-debug/classes.dex",
+		"/Users/avinash.af.kumar/Desktop/django-python3-vagrant/Vagrantfile",
+		"/Users/avinash.af.kumar/DigitalSecurityFramework/django-python3-vagrant/Vagrantfile",
+		"/Users/avinash.af.kumar/DigitalSecurityFramework/django-python3-vagrant/vagrant_bootstrap.sh",
+		"/Users/avinash.af.kumar/DigitalSecurityFramework/templates/EditIssue.html",
+		"/Users/avinash.af.kumar/Desktop/test/AndroidUnusedPermissions-master/log.txt",
+		"/Users/avinash.af.kumar/Desktop/test/AndroidUnusedPermissions-master/README.md",
+		"/Users/avinash.af.kumar/Desktop/AndroidUnusedPermissions-master/log.txt",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework/DigitalSecurity/views.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework/DigitalSecurity/urls.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework/templates/scan.html",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework/StaticAnalyzer/binaryanalysisUtils.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework/templates/static_analysis.html",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework/StaticAnalyzer/forms.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework/StaticAnalyzer/utils.py",
+		"/Users/avinash.af.kumar/Documents/virtualenv/Mobile-Security-Framework-MobSF-master/StaticAnalyzer/views/android/cert_analysis.py",
+		"/Users/avinash.af.kumar/Documents/virtualenv/Mobile-Security-Framework-MobSF-master/StaticAnalyzer/admin.py",
+		"/Users/avinash.af.kumar/Documents/virtualenv/Mobile-Security-Framework-MobSF-master/StaticAnalyzer/views/android/find.py",
+		"/Users/avinash.af.kumar/Documents/virtualenv/Mobile-Security-Framework-MobSF-master/StaticAnalyzer/views/android/converter.py",
+		"/Users/avinash.af.kumar/Documents/virtualenv/Mobile-Security-Framework-MobSF-master/StaticAnalyzer/views/android/code_analysis.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/static/images/ad.png",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/DigitalSecurity/views.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/views.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/DigitalSecurity/urls.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/templates/dashboard.html",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/templates/ios_binary_analysis.html",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/templates/static_analysis.html",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/models.py",
+		"/Users/avinash.af.kumar/Desktop/ad.png",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/templates/ios.html",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/contextUtils.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/utils.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/forms.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/binaryanalysisUtils.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/manifestUtils.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/excel_util.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/templates/static_analysis_pdf_exe.html",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/dvm_permissions.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/codeanalysisUtils.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/DigitalSecurity/wsgi.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/StaticAnalyzer/admin.py",
+		"/Users/avinash.af.kumar/Desktop/DigitalSecurityFramework-master/DigitalSecurity/settings.py",
+		"/Users/avinash.af.kumar/Documents/virtualenv/Mobile-Security-Framework-MobSF-master/StaticAnalyzer/views/android/win_fixes.py",
+		"/Users/avinash.af.kumar/Desktop/python-django-exporting-files-master/requirements.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!",
+			"url",
+			"high",
+			"label-info",
+			"high",
+			"BUSINESS IMPLICATIONS",
+			"form",
+			"required",
+			"update",
+			"false positi",
+			"false pos",
+			"PermissionScanner",
+			"name",
+			"This value must contain only letters, numbers, dot (.), underscores and whitespace.\n\n",
+			"This value must contain only letters, numbers, dot (.), underscores and whitespace.",
+			"cert_info",
+			"certinfo",
+			"#",
+			"certinfo",
+			"from",
+			"issued",
+			"Signer Certificate",
+			"excel",
+			"iosDB",
+			"medium",
+			"set_column",
+			"excel",
+			"List data context analysis",
+			"Analysis is already Done. Fetching data from the DB",
+			"excel",
+			"developer r",
+			"MA",
+			"all",
+			"PCIset",
+			"pci ",
+			"excel",
+			"lst",
+			"item2",
+			"Signer Certificate",
+			"file an",
+			"usertype"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/avinash.af.kumar/Desktop/TTS-Django/src/texttospeech/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tts.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
